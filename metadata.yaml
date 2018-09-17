@@ -1,0 +1,29 @@
+_repo: A-History-of-Parliamentary-Elections-and-Electioneering-in-the-Old-Days-Showing-the-State-of-__52156
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grego, Joseph
+    birthdate: 1843
+    deathdate: 1908
+    gutenberg_agent_id: '42813'
+    url: http://www.gutenberg.org/2009/agents/42813
+description: ''
+gutenberg_issued: '2016-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52156'
+  lccn: '40038330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Politics and government'
+- !lcsh 'Great Britain. Parliament -- Election'
+- !lcc 'JN'
+- GITenberg
+title: 'A History of Parliamentary Elections and Electioneering in the Old Days
+
+  Showing the State of Political Parties and Party Warfare at the Hustings and in
+  the House of Commons from the Stuarts to Queen Victoria'
+url: http://www.gutenberg.org/ebooks/52156
